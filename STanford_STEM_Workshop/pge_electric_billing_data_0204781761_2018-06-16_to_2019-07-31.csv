@@ -1,0 +1,20 @@
+﻿Name,ANTHONY ROSS
+Address,"722 N CLOVIS AVE 192, CLOVIS CA 93611-0366"
+Account Number,0208793756
+Service,0204781761
+
+TYPE,START DATE,END DATE,USAGE,UNITS,COST,NOTES
+Electric billing,2018-06-16,2018-06-28,122.71,kWh,$26.02,
+Electric billing,2018-06-29,2018-07-30,332.63,kWh,$70.51,
+Electric billing,2018-07-31,2018-08-29,357.32,kWh,$75.74,
+Electric billing,2018-08-30,2018-09-30,271.87,kWh,$58.59,
+Electric billing,2018-10-01,2018-10-30,204.75,kWh,$44.16,
+Electric billing,2018-10-31,2018-11-30,235.82,kWh,$50.85,
+Electric billing,2018-12-01,2019-01-01,221.74,kWh,$47.78,
+Electric billing,2019-01-02,2019-01-30,160.73,kWh,$34.10,
+Electric billing,2019-01-31,2019-03-03,188.04,kWh,$39.95,
+Electric billing,2019-03-04,2019-04-01,159.13,kWh,$34.70,
+Electric billing,2019-04-02,2019-05-01,222.49,kWh,$48.54,
+Electric billing,2019-05-02,2019-06-02,206.06,kWh,$45.97,
+Electric billing,2019-06-03,2019-07-01,377.24,kWh,$84.18,
+Electric billing,2019-07-02,2019-07-31,398.54,kWh,$89.30,
