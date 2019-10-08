@@ -1,0 +1,1885 @@
+age,gender,education,Neuroticism,Extroversion,Openness,Agreeableness,Conscientiousness,Impulsiveness,Sensation Seeking,alcohol_use,cannabis_use,chocolate_use,coke_use,crack_use,nicotine_use
+25-34,male,doctorate degree,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,low,low,low,ave,1,1,1,0,0,0
+18-24,female,masters degree,ave,ave,ave,ave,ave,low,low,1,1,1,1,0,1
+35-44,female,doctorate degree,ave,low,ave,ave,high,ave,ave,1,1,1,0,0,1
+65+,female,left before 19,ave,ave,low,high,high,low,low,1,0,1,0,0,1
+45-54,male,masters degree,ave,low,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,left before 19,low,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,high,ave,ave,high,low,low,1,0,1,0,0,1
+55-64,male,masters degree,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,1
+25-34,female,college degree,low,ave,low,ave,high,ave,ave,1,1,1,1,0,1
+45-54,male,some college,low,ave,ave,low,ave,ave,high,1,1,1,1,0,1
+55-64,female,college degree,high,ave,ave,low,ave,high,ave,1,1,1,0,0,1
+55-64,female,prof. certificate,ave,ave,ave,ave,high,ave,ave,0,0,0,0,0,0
+55-64,female,prof. certificate,ave,high,ave,ave,high,high,ave,1,0,1,0,0,1
+55-64,male,college degree,low,low,low,low,high,ave,ave,1,0,1,1,0,0
+35-44,female,some college,low,ave,low,ave,ave,ave,low,1,1,1,0,0,1
+45-54,male,left before 19,ave,low,ave,ave,low,low,ave,1,1,1,0,0,1
+55-64,male,college degree,high,ave,ave,low,low,ave,ave,1,1,1,1,0,0
+35-44,male,prof. certificate,ave,low,low,low,ave,low,low,1,0,1,0,0,0
+45-54,male,prof. certificate,ave,ave,ave,high,low,ave,ave,1,1,1,0,0,1
+65+,male,left before 19,low,ave,low,ave,high,ave,low,1,0,1,0,0,0
+45-54,male,college degree,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+45-54,male,left before 19,high,low,low,ave,low,low,low,1,1,1,1,0,1
+55-64,male,college degree,ave,ave,high,ave,high,ave,ave,1,0,1,0,0,1
+45-54,male,some college,ave,ave,low,ave,ave,ave,ave,1,0,1,1,0,0
+55-64,female,left before 19,ave,low,low,ave,ave,ave,low,1,0,1,0,0,1
+35-44,male,college degree,ave,low,ave,ave,low,high,ave,1,1,1,0,0,1
+35-44,female,masters degree,ave,low,ave,ave,high,ave,ave,1,0,1,0,0,0
+45-54,male,doctorate degree,low,high,ave,ave,high,ave,ave,0,0,1,0,0,0
+45-54,male,left before 19,ave,ave,low,low,ave,low,ave,1,1,1,0,0,1
+35-44,female,left before 19,low,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+35-44,male,college degree,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,0
+35-44,male,college degree,high,ave,ave,low,ave,ave,high,1,1,1,1,0,1
+65+,male,left before 19,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,1
+35-44,male,college degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,0
+55-64,male,left before 19,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,college degree,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+65+,female,prof. certificate,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,high,high,ave,ave,ave,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,low,ave,ave,ave,ave,1,1,1,1,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,low,high,ave,high,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,high,ave,high,low,low,1,0,1,0,0,0
+45-54,female,some college,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,1
+45-54,male,masters degree,low,ave,ave,ave,high,low,low,1,0,1,0,0,0
+45-54,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,low,ave,ave,ave,high,1,0,1,0,0,1
+35-44,male,masters degree,high,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+45-54,male,prof. certificate,high,ave,ave,ave,low,high,high,1,1,1,0,0,1
+55-64,female,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+45-54,male,masters degree,low,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,male,left before 19,ave,high,ave,low,low,high,high,1,1,1,1,0,0
+55-64,female,prof. certificate,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+35-44,female,some college,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,low,ave,ave,ave,ave,0,0,1,0,0,0
+45-54,male,left before 19,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+45-54,male,college degree,ave,low,low,low,ave,low,low,1,0,1,0,0,0
+25-34,female,doctorate degree,high,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+45-54,male,masters degree,low,high,high,ave,high,low,low,1,0,1,0,0,0
+25-34,male,college degree,ave,low,low,low,ave,low,low,1,0,1,0,0,1
+45-54,male,college degree,high,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,male,doctorate degree,low,ave,high,ave,ave,low,ave,1,1,1,1,0,0
+35-44,male,some college,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+45-54,male,left before 19,low,ave,low,high,ave,ave,low,1,0,1,0,0,0
+25-34,male,masters degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+45-54,female,left before 19,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+25-34,male,some college,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+45-54,female,left before 19,ave,high,ave,high,ave,low,ave,1,0,1,0,0,1
+45-54,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,male,prof. certificate,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+65+,female,left before 19,low,low,low,low,ave,ave,low,1,0,1,0,0,0
+25-34,male,college degree,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,ave,ave,low,low,1,0,1,0,0,1
+35-44,male,college degree,ave,low,ave,low,ave,ave,low,1,1,1,0,0,1
+35-44,male,some college,ave,ave,low,low,low,low,low,1,0,1,0,0,1
+35-44,male,prof. certificate,ave,ave,low,high,ave,ave,ave,1,0,1,0,0,0
+65+,female,doctorate degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+55-64,female,college degree,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,0
+55-64,male,masters degree,low,high,ave,ave,high,ave,low,1,0,1,0,0,0
+55-64,female,left before 19,high,ave,low,high,low,ave,ave,1,0,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,0
+25-34,female,left before 19,ave,ave,low,ave,ave,ave,high,1,0,1,0,0,1
+35-44,male,some college,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+55-64,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,some college,ave,low,low,ave,ave,low,low,1,1,1,0,0,0
+35-44,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,masters degree,high,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,0,0,0,0
+25-34,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+65+,female,left before 19,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,high,low,high,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,low,ave,ave,ave,low,low,1,1,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,1
+35-44,male,doctorate degree,low,ave,ave,ave,ave,ave,high,1,0,1,0,0,1
+25-34,female,college degree,ave,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,male,masters degree,low,high,ave,low,ave,ave,high,1,1,1,1,0,0
+45-54,female,left before 19,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,1
+45-54,male,left before 19,ave,high,high,low,ave,ave,high,1,0,1,1,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,low,ave,low,ave,high,low,low,1,0,1,0,0,0
+25-34,female,some college,high,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+35-44,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,1,0,1
+25-34,female,college degree,ave,high,ave,ave,ave,high,high,1,1,1,1,0,0
+45-54,female,some college,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,masters degree,ave,low,ave,ave,ave,ave,ave,1,1,0,0,0,0
+25-34,female,college degree,low,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,some college,low,high,high,ave,low,high,high,1,1,1,0,0,1
+25-34,female,prof. certificate,ave,ave,ave,ave,high,low,low,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,high,ave,high,ave,low,ave,ave,1,0,1,1,0,1
+35-44,female,some college,high,low,low,high,ave,ave,low,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+25-34,female,masters degree,low,ave,ave,low,ave,ave,high,1,0,1,0,0,1
+35-44,female,prof. certificate,high,low,low,low,ave,ave,ave,1,0,1,0,0,0
+55-64,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+45-54,male,left before 19,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,male,college degree,ave,high,ave,ave,high,ave,ave,1,0,1,0,0,1
+45-54,male,college degree,low,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+35-44,male,doctorate degree,ave,ave,ave,ave,ave,ave,low,0,0,1,0,0,0
+45-54,female,masters degree,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,ave,high,ave,low,1,0,1,0,0,0
+45-54,female,left before 19,low,ave,low,high,ave,low,low,1,0,1,0,0,1
+35-44,female,left before 19,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+35-44,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,masters degree,high,low,ave,ave,ave,low,ave,1,0,1,1,0,1
+35-44,female,left before 19,low,high,ave,high,high,ave,ave,0,0,1,0,0,0
+45-54,female,college degree,ave,ave,low,high,high,high,ave,1,0,1,0,0,0
+45-54,female,college degree,low,high,ave,ave,ave,low,low,1,0,1,0,0,1
+55-64,male,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,high,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,left before 19,ave,ave,low,high,ave,low,low,1,0,1,0,0,1
+35-44,male,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,prof. certificate,low,high,ave,high,high,ave,ave,0,0,1,0,0,0
+45-54,male,prof. certificate,ave,low,ave,low,ave,ave,ave,1,1,1,0,0,0
+45-54,female,college degree,ave,ave,low,high,ave,high,ave,1,0,1,0,0,0
+55-64,male,prof. certificate,ave,low,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,college degree,ave,high,ave,high,high,ave,low,1,1,1,0,0,0
+35-44,female,some college,ave,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,low,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,low,ave,ave,ave,low,low,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,some college,high,low,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,low,low,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,some college,high,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,male,left before 19,low,high,low,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,high,1,0,1,0,0,0
+45-54,female,some college,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+45-54,male,masters degree,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,high,ave,low,ave,1,1,1,0,0,0
+25-34,female,some college,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,doctorate degree,ave,ave,low,high,high,low,ave,1,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,high,low,ave,1,0,1,0,0,0
+18-24,male,some college,high,low,ave,low,low,ave,ave,1,1,1,1,1,1
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,low,ave,low,ave,ave,1,0,1,1,0,0
+18-24,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,male,left before 19,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+35-44,male,masters degree,ave,ave,high,ave,ave,high,high,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+35-44,female,college degree,high,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,high,ave,low,ave,low,ave,ave,1,0,1,0,0,1
+55-64,female,college degree,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,low,ave,low,low,1,0,1,0,0,0
+35-44,female,college degree,high,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,high,ave,low,low,1,1,1,0,0,1
+45-54,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,male,doctorate degree,low,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,female,some college,ave,ave,ave,high,ave,low,low,1,0,1,0,0,0
+18-24,female,college degree,high,ave,ave,ave,ave,ave,ave,1,0,1,1,0,1
+55-64,male,left before 19,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,masters degree,ave,high,ave,ave,high,low,low,1,0,1,0,0,0
+55-64,female,left before 19,ave,ave,low,high,ave,low,low,1,0,1,0,0,0
+45-54,female,left before 19,ave,low,low,ave,ave,low,low,1,0,1,0,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,prof. certificate,low,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+18-24,male,college degree,ave,high,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,college degree,ave,low,ave,ave,ave,low,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,ave,low,1,1,1,0,0,0
+55-64,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,0
+55-64,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,high,high,1,1,1,1,0,1
+45-54,female,prof. certificate,ave,high,ave,high,high,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,high,high,ave,high,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,ave,low,high,ave,ave,1,1,1,1,1,1
+35-44,female,college degree,ave,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+65+,male,left before 19,low,low,low,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,left before 19,ave,high,ave,ave,low,high,ave,1,0,1,0,0,0
+18-24,female,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+25-34,male,masters degree,low,ave,high,ave,high,low,ave,0,0,1,0,0,0
+25-34,female,some college,ave,ave,low,ave,low,high,ave,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,high,ave,low,low,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,1
+45-54,female,prof. certificate,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,high,ave,high,high,ave,high,1,1,1,0,0,1
+25-34,female,college degree,high,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,female,prof. certificate,ave,high,ave,high,ave,ave,ave,1,0,1,1,0,1
+35-44,male,prof. certificate,high,ave,ave,high,low,high,ave,1,0,1,0,0,1
+25-34,female,masters degree,ave,high,ave,low,ave,ave,ave,1,1,1,0,0,1
+35-44,female,some college,ave,ave,ave,high,ave,low,ave,1,0,1,1,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,high,ave,high,high,1,1,1,1,0,1
+55-64,male,college degree,low,high,ave,high,ave,ave,ave,0,0,1,0,0,0
+45-54,female,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,low,ave,ave,ave,ave,low,low,1,0,1,1,0,1
+45-54,female,college degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,college degree,low,high,ave,ave,high,low,low,1,0,1,0,0,0
+35-44,female,prof. certificate,high,low,low,ave,ave,low,low,1,0,1,0,0,1
+65+,female,masters degree,ave,low,ave,ave,ave,ave,low,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,college degree,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,prof. certificate,ave,ave,low,high,high,low,low,1,0,1,0,0,0
+25-34,female,masters degree,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,left before 19,ave,ave,low,ave,high,low,low,1,1,1,0,0,1
+18-24,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,low,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+35-44,female,masters degree,ave,low,ave,high,high,low,ave,1,0,1,0,0,0
+25-34,female,left before 19,high,low,ave,ave,low,ave,low,1,1,1,0,0,1
+18-24,female,some college,high,low,low,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,college degree,ave,high,ave,ave,ave,low,ave,1,1,1,1,1,1
+35-44,male,college degree,high,low,ave,high,low,ave,ave,1,0,1,0,0,0
+25-34,female,some college,ave,ave,low,low,low,low,low,1,0,1,0,0,1
+25-34,female,prof. certificate,high,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,doctorate degree,low,ave,ave,high,high,ave,low,1,0,1,0,0,0
+45-54,female,prof. certificate,high,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+45-54,male,college degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+18-24,female,masters degree,low,ave,ave,high,high,ave,ave,1,1,1,0,0,1
+45-54,female,doctorate degree,ave,ave,ave,ave,ave,low,low,1,1,1,1,0,1
+25-34,male,prof. certificate,high,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+35-44,female,masters degree,low,high,high,high,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,male,doctorate degree,ave,ave,ave,low,ave,ave,ave,1,0,1,1,0,1
+65+,male,doctorate degree,ave,ave,ave,low,high,ave,low,1,0,0,0,0,0
+65+,male,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,high,ave,ave,high,high,1,1,1,0,0,0
+55-64,male,college degree,ave,ave,ave,ave,ave,high,ave,1,0,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+55-64,female,left before 19,low,ave,ave,high,high,ave,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+55-64,male,college degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,male,prof. certificate,ave,high,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,low,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,female,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,masters degree,low,high,high,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,1
+55-64,male,doctorate degree,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,low,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,high,low,ave,1,0,1,0,0,1
+55-64,male,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,some college,low,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,masters degree,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,some college,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,low,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+35-44,male,college degree,ave,high,ave,ave,ave,low,ave,1,0,1,0,0,1
+45-54,female,college degree,ave,low,ave,low,ave,low,low,1,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,some college,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+25-34,female,masters degree,low,ave,ave,high,high,low,low,1,1,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,high,ave,low,low,0,0,1,0,0,0
+35-44,female,some college,ave,low,ave,ave,ave,low,ave,1,1,1,0,0,1
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+65+,female,left before 19,ave,ave,ave,ave,high,ave,ave,0,0,1,0,0,0
+35-44,female,college degree,ave,ave,low,high,ave,ave,low,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,some college,ave,ave,low,ave,ave,low,low,1,0,1,0,0,1
+35-44,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+45-54,female,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+45-54,female,college degree,low,low,low,high,ave,ave,low,1,0,1,0,0,0
+35-44,male,masters degree,ave,low,ave,low,ave,low,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+35-44,female,left before 19,low,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,college degree,low,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+18-24,female,left before 19,high,ave,low,ave,ave,high,ave,1,0,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,high,ave,ave,high,ave,ave,1,0,1,0,0,1
+18-24,female,left before 19,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+45-54,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,female,college degree,ave,ave,high,ave,ave,high,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,low,ave,low,low,1,0,1,0,0,0
+35-44,female,some college,ave,ave,ave,high,high,low,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,left before 19,ave,low,low,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,female,doctorate degree,ave,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,male,left before 19,ave,low,low,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,low,high,ave,high,high,low,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,low,high,ave,low,low,1,0,1,0,0,1
+45-54,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,female,prof. certificate,low,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+35-44,male,left before 19,ave,ave,ave,ave,ave,low,ave,1,1,1,1,1,1
+55-64,female,left before 19,ave,ave,low,ave,ave,low,low,0,0,0,0,0,1
+18-24,female,some college,high,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+65+,male,some college,low,ave,ave,ave,ave,high,ave,1,0,1,0,0,0
+65+,female,left before 19,ave,ave,low,low,ave,ave,ave,1,0,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,0,0,0,1
+45-54,female,prof. certificate,ave,ave,high,low,ave,high,ave,1,1,1,1,0,1
+35-44,male,doctorate degree,low,high,ave,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+35-44,female,masters degree,ave,high,ave,ave,ave,low,ave,1,1,1,0,0,1
+55-64,female,prof. certificate,low,ave,ave,ave,high,low,low,1,0,1,0,0,0
+55-64,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,0,0,1,0,0,1
+18-24,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+35-44,female,masters degree,low,ave,high,high,high,ave,ave,0,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,female,college degree,ave,high,high,high,ave,high,high,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,male,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+45-54,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,some college,high,ave,ave,high,ave,ave,ave,1,1,1,1,1,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+45-54,male,college degree,ave,ave,ave,ave,low,ave,ave,0,0,1,0,0,0
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,1,1,1
+25-34,male,left before 19,ave,ave,high,high,ave,high,high,1,1,1,1,1,1
+45-54,male,college degree,low,ave,low,high,ave,ave,ave,1,0,1,0,0,1
+35-44,male,left before 19,high,low,ave,low,low,high,high,1,1,1,1,0,1
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,some college,ave,high,ave,ave,ave,high,high,1,1,1,1,1,1
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,ave,ave,high,ave,high,ave,ave,1,1,1,1,1,1
+45-54,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,1,1
+45-54,female,prof. certificate,high,ave,low,ave,ave,low,low,1,0,1,0,0,0
+35-44,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,prof. certificate,ave,ave,ave,ave,low,low,low,1,0,1,0,0,1
+35-44,female,college degree,low,ave,ave,ave,ave,low,low,0,0,1,0,0,0
+45-54,female,college degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,0,0,0,1
+35-44,female,college degree,high,high,high,low,ave,high,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,low,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,male,college degree,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,0
+55-64,female,masters degree,ave,high,ave,high,high,ave,low,1,0,1,0,0,0
+65+,male,prof. certificate,ave,ave,ave,low,high,low,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+25-34,male,masters degree,ave,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,1,1
+35-44,male,left before 19,ave,ave,low,ave,ave,high,ave,1,1,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,low,0,0,1,0,0,0
+25-34,male,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,male,left before 19,low,ave,low,high,ave,ave,ave,1,0,1,0,0,0
+25-34,male,college degree,low,ave,ave,low,high,ave,ave,0,0,1,0,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,male,doctorate degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+35-44,female,some college,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,left before 19,ave,ave,ave,ave,high,ave,low,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,low,ave,high,low,low,1,0,1,0,0,0
+25-34,male,prof. certificate,low,ave,ave,ave,high,ave,ave,1,0,1,1,0,1
+35-44,male,college degree,ave,high,ave,low,ave,high,high,1,1,1,1,0,1
+35-44,female,college degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+45-54,male,prof. certificate,ave,ave,ave,low,ave,high,high,1,0,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,high,high,ave,ave,ave,low,0,0,1,0,0,1
+25-34,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,left before 19,ave,low,ave,low,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,0
+18-24,male,college degree,low,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,left before 19,ave,high,high,high,ave,high,ave,1,1,1,0,0,1
+45-54,female,college degree,high,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,left before 19,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+35-44,female,prof. certificate,low,ave,ave,ave,ave,ave,ave,0,1,1,0,0,1
+45-54,male,left before 19,high,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+35-44,female,some college,ave,low,ave,ave,low,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,some college,low,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,left before 19,ave,low,ave,low,high,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,ave,ave,low,ave,high,high,1,1,1,1,1,1
+25-34,female,doctorate degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,left before 19,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,low,low,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,ave,ave,high,ave,ave,low,1,1,1,0,0,1
+35-44,female,college degree,low,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+45-54,female,doctorate degree,ave,ave,high,ave,ave,high,ave,1,1,1,0,0,0
+35-44,male,college degree,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,0
+25-34,female,left before 19,ave,ave,low,ave,ave,low,low,1,1,1,0,0,1
+25-34,male,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,left before 19,ave,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+45-54,female,left before 19,ave,high,low,high,ave,high,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,low,high,high,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+55-64,male,some college,ave,ave,high,high,ave,low,low,0,1,1,0,0,0
+45-54,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,female,college degree,high,ave,ave,low,low,ave,ave,1,1,1,1,1,1
+18-24,female,some college,high,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,high,low,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+45-54,female,college degree,high,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+25-34,female,college degree,ave,low,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,ave,ave,ave,low,high,ave,1,1,1,1,0,1
+18-24,female,some college,high,high,high,low,ave,high,high,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,female,college degree,ave,ave,ave,ave,low,ave,ave,1,1,1,1,1,1
+18-24,female,masters degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,1
+25-34,male,college degree,high,low,ave,ave,ave,low,ave,1,1,1,0,0,1
+45-54,male,doctorate degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+18-24,female,college degree,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+35-44,male,college degree,high,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,high,high,low,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,high,low,high,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,low,high,low,ave,low,1,1,1,0,0,0
+35-44,male,some college,ave,ave,high,ave,low,high,high,1,1,1,1,0,1
+45-54,male,left before 19,high,ave,ave,high,low,ave,ave,1,0,1,0,0,1
+18-24,female,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,masters degree,high,low,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,high,high,ave,ave,ave,0,1,1,0,0,1
+45-54,male,college degree,ave,ave,high,ave,high,ave,ave,1,0,1,0,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+25-34,male,college degree,low,high,high,ave,ave,ave,high,1,1,1,1,0,1
+45-54,female,left before 19,high,low,low,high,low,ave,ave,1,0,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,masters degree,ave,high,high,high,high,ave,ave,1,1,1,1,0,1
+18-24,female,left before 19,ave,ave,ave,high,ave,ave,ave,1,1,1,1,1,1
+35-44,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+55-64,female,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,college degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,male,college degree,high,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,high,ave,ave,low,low,high,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,high,ave,ave,low,ave,low,ave,1,1,1,1,0,1
+35-44,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,some college,ave,ave,ave,ave,high,ave,ave,0,1,1,0,0,1
+25-34,female,college degree,high,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,left before 19,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+45-54,female,left before 19,ave,ave,low,high,ave,low,ave,1,1,1,0,0,1
+25-34,male,left before 19,high,low,high,ave,low,ave,low,1,1,1,0,0,1
+35-44,female,left before 19,high,low,high,low,ave,ave,ave,1,1,1,0,0,1
+25-34,male,left before 19,ave,low,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,left before 19,high,low,ave,low,low,ave,ave,1,1,1,0,0,0
+18-24,male,some college,low,high,ave,low,low,ave,high,1,1,1,1,0,1
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,high,high,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,ave,low,low,low,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,low,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+55-64,male,some college,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+25-34,male,masters degree,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,some college,high,ave,high,ave,low,ave,high,1,1,1,1,1,1
+35-44,female,prof. certificate,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+25-34,female,prof. certificate,ave,ave,low,ave,ave,ave,low,1,1,1,0,0,1
+18-24,male,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,prof. certificate,ave,ave,ave,ave,ave,high,ave,0,1,1,0,0,0
+35-44,male,left before 19,ave,ave,ave,ave,ave,low,low,0,1,1,0,0,1
+45-54,male,prof. certificate,ave,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,male,left before 19,high,low,low,low,ave,ave,ave,1,1,1,0,0,1
+35-44,female,masters degree,low,high,ave,ave,ave,low,ave,1,0,1,0,0,0
+35-44,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,female,masters degree,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,low,high,ave,1,1,1,1,0,1
+55-64,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+35-44,male,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,female,left before 19,low,high,ave,ave,ave,ave,high,1,1,1,0,0,1
+35-44,female,left before 19,ave,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,prof. certificate,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+25-34,male,masters degree,ave,ave,low,high,high,ave,high,1,1,1,1,1,1
+35-44,female,college degree,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+45-54,female,left before 19,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+35-44,female,left before 19,ave,ave,low,ave,ave,low,low,1,1,1,1,1,1
+45-54,female,college degree,ave,ave,high,high,high,ave,ave,1,1,1,0,0,0
+55-64,male,left before 19,low,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,prof. certificate,ave,low,ave,low,low,ave,ave,1,1,1,1,0,1
+35-44,male,doctorate degree,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,0
+25-34,female,prof. certificate,ave,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+55-64,male,college degree,ave,ave,ave,low,ave,ave,low,1,0,1,0,0,0
+45-54,male,college degree,high,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,college degree,ave,ave,ave,high,high,ave,low,1,0,1,0,0,1
+25-34,male,masters degree,ave,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+35-44,female,masters degree,low,high,ave,high,high,ave,low,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,female,some college,ave,ave,low,ave,ave,low,low,0,0,1,0,0,1
+35-44,female,college degree,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,masters degree,low,high,ave,ave,high,low,low,1,0,1,0,0,0
+45-54,female,college degree,low,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,left before 19,ave,ave,ave,low,low,ave,high,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,1,0,1
+18-24,female,left before 19,high,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,some college,ave,ave,ave,high,ave,low,low,1,1,1,1,1,1
+25-34,female,masters degree,low,ave,ave,ave,high,low,ave,1,0,1,0,0,0
+18-24,male,college degree,high,ave,ave,ave,low,ave,low,1,0,1,0,0,1
+25-34,female,masters degree,low,high,ave,ave,ave,ave,ave,1,1,0,0,0,1
+18-24,female,college degree,ave,ave,low,ave,high,low,ave,1,1,1,0,0,1
+35-44,female,masters degree,ave,high,ave,low,high,ave,high,1,1,1,1,0,1
+18-24,female,masters degree,high,low,ave,ave,ave,ave,low,1,0,1,0,0,0
+25-34,female,masters degree,high,low,ave,ave,ave,ave,low,1,1,1,0,0,0
+25-34,female,doctorate degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+25-34,female,college degree,low,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,high,high,1,1,1,1,0,1
+45-54,female,college degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+18-24,female,college degree,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,high,ave,low,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,0
+45-54,female,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,college degree,ave,high,ave,ave,ave,low,low,1,1,1,0,0,1
+18-24,male,college degree,high,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,masters degree,high,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+35-44,female,doctorate degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+35-44,female,prof. certificate,ave,high,low,low,ave,ave,ave,1,0,1,0,0,1
+18-24,female,masters degree,low,high,ave,high,high,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,high,low,low,low,ave,high,ave,1,1,1,0,0,1
+55-64,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,college degree,high,low,low,ave,low,ave,low,1,1,1,0,0,1
+35-44,male,left before 19,low,ave,low,ave,high,ave,ave,1,0,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,high,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+45-54,female,masters degree,high,ave,ave,high,high,low,low,1,0,1,0,0,0
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,some college,low,ave,low,ave,low,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,ave,high,high,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,high,ave,1,0,1,0,0,0
+18-24,male,prof. certificate,ave,ave,high,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+25-34,female,left before 19,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,college degree,ave,ave,ave,low,high,ave,ave,1,0,1,0,0,1
+35-44,female,prof. certificate,low,ave,ave,ave,high,ave,ave,1,1,1,1,1,1
+25-34,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,left before 19,ave,ave,ave,low,ave,high,ave,1,1,1,1,0,0
+45-54,male,prof. certificate,ave,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+18-24,male,left before 19,low,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+55-64,female,prof. certificate,ave,ave,ave,ave,ave,ave,high,0,1,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,0
+18-24,male,some college,high,high,ave,ave,low,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,low,low,low,ave,ave,high,1,1,1,0,0,1
+18-24,male,some college,high,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,masters degree,low,high,high,high,low,ave,ave,1,1,1,0,1,0
+18-24,male,college degree,ave,ave,low,high,ave,ave,high,1,1,1,0,0,1
+45-54,male,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,low,high,high,ave,high,ave,high,1,1,1,1,1,0
+55-64,female,prof. certificate,high,ave,low,high,low,high,ave,1,1,1,1,1,0
+25-34,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,high,ave,ave,high,1,1,1,0,1,1
+35-44,male,college degree,low,ave,ave,ave,ave,ave,ave,0,1,1,0,0,0
+25-34,female,masters degree,high,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+25-34,female,left before 19,ave,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+45-54,female,some college,high,ave,ave,ave,low,high,high,1,1,1,1,0,1
+45-54,male,prof. certificate,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,male,masters degree,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+18-24,male,left before 19,ave,low,ave,high,low,high,ave,1,1,1,0,0,1
+35-44,male,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,0
+35-44,female,masters degree,ave,ave,ave,ave,high,ave,low,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,ave,ave,low,high,ave,1,0,1,0,0,1
+35-44,female,doctorate degree,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,1,1,1,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,doctorate degree,low,ave,low,high,ave,low,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,high,low,low,high,ave,low,low,1,1,1,1,0,1
+45-54,female,doctorate degree,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+35-44,female,doctorate degree,ave,ave,high,ave,high,low,low,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,high,high,low,ave,1,0,1,0,0,0
+18-24,female,college degree,high,ave,low,ave,ave,low,low,1,1,1,0,0,0
+25-34,female,masters degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,doctorate degree,high,ave,ave,low,ave,ave,high,1,1,1,1,0,1
+35-44,male,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,0
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+25-34,male,left before 19,ave,high,ave,high,ave,ave,high,1,1,1,1,0,1
+45-54,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,masters degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,low,ave,ave,high,high,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,ave,low,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,male,college degree,ave,ave,ave,ave,ave,high,ave,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,male,some college,low,high,high,low,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,high,ave,high,high,low,high,high,1,1,1,1,1,1
+25-34,female,college degree,ave,ave,low,ave,high,ave,low,1,1,1,1,0,1
+45-54,female,masters degree,ave,high,high,high,ave,high,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,ave,ave,ave,low,ave,low,1,1,0,1,0,0
+18-24,male,some college,high,high,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+35-44,female,left before 19,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+25-34,male,masters degree,ave,high,ave,ave,low,ave,ave,1,1,1,0,1,1
+45-54,male,some college,high,ave,ave,low,low,high,ave,1,1,1,1,1,1
+45-54,male,prof. certificate,high,low,high,ave,low,high,high,1,1,1,0,0,1
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,doctorate degree,ave,high,high,ave,ave,high,ave,1,1,1,1,1,1
+25-34,female,masters degree,low,ave,ave,high,ave,low,low,1,0,1,0,0,0
+18-24,female,college degree,ave,low,ave,ave,high,low,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,ave,high,high,ave,low,1,1,1,0,0,1
+25-34,female,doctorate degree,high,low,ave,low,low,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,1,1
+45-54,male,college degree,low,high,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,high,ave,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,female,masters degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,ave,ave,low,low,low,0,0,1,0,0,0
+18-24,female,some college,ave,ave,ave,low,high,ave,high,1,1,1,1,0,1
+45-54,male,doctorate degree,ave,ave,ave,ave,low,ave,low,1,0,1,1,1,0
+35-44,male,some college,low,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,masters degree,high,low,ave,ave,ave,low,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,0
+35-44,female,prof. certificate,ave,ave,high,low,low,high,high,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,high,ave,high,ave,ave,ave,high,1,1,1,0,0,0
+45-54,female,left before 19,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+35-44,male,some college,high,high,ave,low,ave,ave,high,1,1,1,0,0,1
+55-64,female,masters degree,ave,ave,ave,ave,ave,high,ave,1,0,1,0,0,0
+55-64,male,some college,ave,ave,low,low,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,masters degree,low,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,ave,ave,ave,high,high,ave,low,1,0,1,0,0,0
+55-64,male,college degree,ave,ave,ave,low,high,ave,ave,1,1,1,0,0,0
+45-54,female,college degree,low,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+55-64,male,some college,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+35-44,female,some college,ave,ave,ave,ave,ave,high,high,1,1,1,1,0,1
+45-54,male,left before 19,low,high,ave,ave,high,ave,ave,0,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,male,college degree,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,0,0,0,0
+18-24,male,some college,low,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,high,low,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,low,ave,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,high,ave,low,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,0
+18-24,male,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,high,ave,low,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,high,high,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,low,low,ave,low,high,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,ave,low,ave,ave,ave,high,high,1,1,1,0,0,1
+55-64,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+35-44,male,some college,high,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+35-44,female,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+55-64,male,prof. certificate,ave,ave,ave,ave,ave,low,low,0,1,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,high,ave,ave,high,1,1,1,1,0,1
+18-24,male,prof. certificate,high,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,male,some college,low,ave,ave,ave,low,ave,ave,1,1,1,0,0,0
+25-34,female,left before 19,ave,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,low,low,ave,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,high,high,high,ave,high,high,1,1,1,1,0,1
+25-34,male,college degree,ave,low,low,low,low,low,ave,1,1,1,1,0,1
+25-34,male,college degree,low,high,ave,ave,high,ave,high,1,1,1,1,0,1
+18-24,female,left before 19,high,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+25-34,male,masters degree,ave,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,some college,low,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+45-54,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,0,1,1,0,0,0
+45-54,male,some college,ave,ave,ave,ave,low,high,ave,1,0,1,0,0,0
+25-34,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,left before 19,ave,ave,low,ave,low,ave,ave,1,1,1,1,1,0
+35-44,female,doctorate degree,low,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+35-44,male,masters degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,female,prof. certificate,low,high,low,high,high,ave,ave,1,1,1,1,0,1
+25-34,male,some college,high,ave,high,high,low,high,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,high,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,male,doctorate degree,ave,ave,high,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,high,high,ave,high,ave,low,1,1,1,1,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,female,some college,high,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,doctorate degree,low,high,ave,high,ave,ave,ave,1,1,1,1,1,1
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,high,ave,low,ave,low,high,ave,1,1,1,0,0,0
+25-34,female,college degree,low,ave,high,high,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,high,ave,ave,ave,low,ave,ave,1,1,0,1,1,1
+18-24,male,left before 19,ave,ave,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,high,ave,ave,high,ave,ave,ave,1,0,1,1,1,1
+25-34,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,prof. certificate,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+25-34,male,college degree,high,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,low,ave,ave,high,high,1,1,1,0,0,1
+18-24,female,masters degree,ave,low,low,ave,ave,ave,ave,0,0,1,0,0,1
+45-54,male,college degree,high,low,ave,ave,low,ave,ave,1,1,1,1,0,0
+45-54,female,prof. certificate,high,low,ave,ave,ave,ave,ave,0,1,1,0,0,1
+18-24,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,low,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,ave,ave,ave,ave,ave,low,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,0,1,1,1
+18-24,male,some college,high,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,male,left before 19,low,high,ave,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,female,prof. certificate,high,low,ave,ave,ave,low,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,high,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,high,low,ave,ave,low,high,high,1,1,1,1,1,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,high,ave,high,1,1,1,1,0,1
+18-24,male,masters degree,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+18-24,male,prof. certificate,low,high,ave,ave,low,high,ave,1,0,1,1,0,0
+18-24,male,some college,low,ave,ave,ave,ave,ave,high,1,1,1,0,0,0
+18-24,male,college degree,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,low,ave,high,high,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,low,low,ave,ave,1,1,1,1,1,1
+25-34,male,some college,ave,high,ave,ave,ave,high,ave,1,0,1,1,0,0
+25-34,male,college degree,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,high,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+25-34,female,some college,ave,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+35-44,female,some college,high,ave,high,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,some college,low,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+45-54,female,college degree,ave,ave,ave,ave,ave,low,high,1,1,1,1,0,1
+25-34,male,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,high,low,high,low,ave,ave,ave,1,1,1,1,1,1
+25-34,male,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,high,high,1,1,1,0,0,1
+18-24,female,some college,high,ave,high,low,ave,ave,high,1,1,1,1,0,1
+18-24,male,college degree,ave,low,ave,ave,low,low,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,low,ave,low,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,low,ave,high,ave,ave,ave,ave,1,1,1,0,0,0
+45-54,female,college degree,high,high,ave,low,low,ave,high,1,1,1,1,1,1
+18-24,male,some college,high,ave,ave,low,ave,high,high,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,high,ave,ave,ave,low,high,high,1,1,1,1,1,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+45-54,male,doctorate degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,high,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,high,1,0,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,low,low,high,high,1,1,1,0,0,1
+18-24,male,college degree,ave,low,low,ave,low,ave,low,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,low,high,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,high,high,low,ave,ave,ave,1,1,1,1,1,0
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,high,ave,high,ave,ave,low,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,high,high,ave,low,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,high,ave,ave,ave,high,1,1,1,0,0,1
+45-54,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,low,ave,ave,ave,low,ave,ave,1,1,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,high,ave,ave,ave,high,ave,1,1,1,0,0,0
+18-24,male,left before 19,ave,ave,high,ave,low,high,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,low,ave,low,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,high,high,ave,ave,1,1,1,1,0,0
+25-34,female,some college,ave,ave,ave,low,ave,low,ave,1,1,1,0,0,0
+18-24,female,some college,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+35-44,male,some college,ave,low,low,ave,ave,low,low,1,1,1,0,0,0
+18-24,female,prof. certificate,ave,ave,low,high,ave,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,high,low,ave,high,high,1,1,1,1,1,1
+55-64,male,masters degree,low,ave,high,high,ave,ave,ave,1,1,1,0,0,0
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,ave,ave,0,1,1,0,0,0
+25-34,male,college degree,ave,ave,low,low,low,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,low,low,ave,high,1,1,1,1,1,1
+25-34,male,some college,low,ave,high,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,high,ave,ave,high,ave,high,1,1,1,1,0,1
+25-34,male,left before 19,high,ave,ave,low,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,low,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,high,low,high,low,low,high,ave,1,1,1,1,0,1
+25-34,male,some college,ave,ave,high,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+18-24,male,some college,low,high,high,ave,ave,ave,ave,0,1,1,0,0,1
+18-24,male,some college,high,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,high,high,ave,high,ave,high,1,1,1,0,0,1
+18-24,female,some college,low,ave,ave,ave,high,ave,ave,1,1,1,0,0,1
+45-54,male,prof. certificate,high,ave,ave,ave,low,high,high,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,high,ave,high,ave,high,1,1,1,1,0,1
+18-24,male,masters degree,ave,high,ave,low,low,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,high,low,ave,ave,low,ave,low,1,1,1,0,0,1
+25-34,female,masters degree,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,high,ave,ave,high,high,1,1,1,1,0,1
+35-44,male,prof. certificate,high,low,ave,low,ave,high,ave,1,1,1,1,1,0
+25-34,male,some college,ave,ave,ave,ave,low,high,high,1,1,1,0,0,1
+18-24,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,high,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+18-24,female,left before 19,ave,ave,ave,ave,low,ave,high,1,1,1,1,0,1
+35-44,male,some college,high,low,ave,ave,ave,high,ave,1,1,1,0,1,0
+25-34,female,some college,low,high,high,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,some college,high,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,high,ave,high,ave,ave,high,1,1,1,1,0,0
+18-24,female,some college,low,high,high,high,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,low,high,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,male,some college,ave,ave,low,low,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,high,low,ave,low,low,high,high,1,1,1,1,1,1
+25-34,female,left before 19,high,low,ave,low,low,ave,low,1,1,1,1,0,1
+18-24,male,some college,low,low,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,female,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,male,college degree,high,ave,ave,ave,low,high,high,1,1,1,0,0,1
+18-24,female,some college,high,ave,ave,ave,low,high,high,1,1,1,0,0,1
+18-24,male,college degree,low,high,low,low,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,low,ave,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+35-44,female,college degree,high,ave,high,low,ave,low,ave,1,1,1,0,0,0
+18-24,male,some college,high,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+25-34,male,prof. certificate,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+35-44,male,college degree,low,ave,ave,low,ave,ave,high,1,0,1,1,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,low,high,1,1,1,1,0,1
+18-24,male,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,0
+25-34,female,some college,high,ave,high,ave,low,high,high,1,1,1,1,0,1
+18-24,female,some college,high,low,low,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,low,ave,low,ave,ave,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,low,low,low,ave,ave,ave,1,0,0,0,0,0
+18-24,female,some college,low,high,high,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,left before 19,high,low,ave,low,low,high,high,1,1,1,1,0,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,some college,high,low,ave,high,ave,ave,high,1,1,1,0,0,1
+18-24,male,left before 19,ave,high,high,ave,low,high,high,1,1,1,1,0,1
+35-44,male,masters degree,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,male,some college,low,ave,high,low,ave,ave,high,1,1,1,1,0,1
+18-24,male,left before 19,ave,ave,ave,ave,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,low,low,ave,low,low,ave,ave,1,1,1,0,0,0
+25-34,male,left before 19,high,low,low,low,ave,high,ave,1,1,1,1,1,1
+18-24,male,left before 19,high,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,prof. certificate,ave,high,ave,high,ave,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,high,high,high,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,left before 19,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,left before 19,high,low,ave,high,ave,ave,high,1,1,1,1,1,1
+18-24,female,college degree,ave,ave,high,ave,high,ave,ave,1,1,1,0,0,0
+18-24,female,some college,low,high,high,ave,ave,high,high,1,1,1,1,1,1
+18-24,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,low,ave,ave,ave,1,1,1,0,0,1
+25-34,female,left before 19,ave,high,high,ave,high,ave,ave,1,1,1,1,0,1
+25-34,male,prof. certificate,ave,high,high,high,high,ave,ave,1,1,1,1,1,1
+18-24,female,some college,high,ave,ave,ave,low,ave,ave,1,1,1,1,0,0
+25-34,female,masters degree,high,ave,ave,ave,low,high,ave,1,1,1,1,1,1
+18-24,female,some college,ave,low,ave,high,ave,ave,low,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,low,ave,low,ave,ave,1,1,1,1,0,1
+25-34,male,prof. certificate,high,low,ave,ave,low,high,ave,1,1,1,0,0,0
+25-34,female,left before 19,ave,ave,low,ave,ave,low,low,1,1,1,0,0,0
+35-44,male,prof. certificate,high,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,low,ave,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+25-34,female,college degree,high,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,high,ave,ave,ave,ave,ave,low,0,1,1,0,0,1
+18-24,male,prof. certificate,high,ave,ave,low,low,high,high,1,1,1,1,1,1
+45-54,male,college degree,low,ave,ave,ave,ave,ave,ave,1,1,0,0,0,0
+35-44,male,prof. certificate,low,ave,ave,high,high,ave,low,1,1,1,1,0,1
+18-24,male,some college,ave,high,ave,low,high,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,high,high,ave,ave,ave,1,0,1,0,0,1
+45-54,female,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+18-24,male,prof. certificate,ave,ave,high,ave,ave,high,high,1,1,1,1,0,1
+25-34,male,some college,ave,ave,high,ave,low,ave,ave,1,1,1,1,1,1
+35-44,male,some college,ave,low,ave,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,low,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,masters degree,ave,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,ave,ave,high,high,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,low,high,high,low,ave,ave,ave,1,1,1,1,0,1
+55-64,male,doctorate degree,low,high,ave,high,ave,ave,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,low,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,low,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,high,high,high,ave,ave,high,1,1,1,0,0,1
+18-24,male,some college,high,ave,high,low,ave,ave,high,1,1,1,0,0,1
+65+,male,masters degree,low,ave,ave,ave,ave,ave,ave,0,0,0,0,0,0
+18-24,male,some college,ave,high,ave,ave,ave,ave,ave,0,1,1,0,0,0
+35-44,female,masters degree,ave,high,low,high,ave,high,high,1,1,1,1,0,1
+45-54,female,some college,high,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,high,high,low,ave,low,ave,high,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,high,low,high,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+25-34,male,some college,high,ave,ave,low,low,high,high,1,1,1,1,1,1
+18-24,male,some college,high,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,high,high,1,1,1,1,1,1
+18-24,male,some college,high,ave,high,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,ave,high,ave,ave,low,high,high,1,1,1,1,0,1
+55-64,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,low,ave,high,high,high,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,high,ave,low,1,1,1,1,0,1
+18-24,male,left before 19,high,low,ave,ave,ave,high,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,low,low,ave,high,high,1,1,1,1,0,1
+45-54,female,some college,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+18-24,male,some college,high,low,ave,low,ave,low,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,low,low,ave,low,ave,low,1,1,1,0,0,1
+18-24,male,left before 19,ave,low,low,ave,low,high,high,1,1,1,0,1,1
+18-24,female,left before 19,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,female,left before 19,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,female,some college,ave,high,high,high,ave,ave,high,1,1,1,1,0,1
+25-34,male,some college,high,low,ave,ave,low,ave,low,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,high,ave,ave,ave,high,high,1,1,1,1,1,1
+45-54,male,college degree,low,ave,high,ave,high,low,ave,0,1,1,0,0,1
+18-24,male,prof. certificate,low,high,high,ave,high,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,low,ave,low,low,ave,ave,1,1,1,1,1,1
+18-24,female,left before 19,ave,low,ave,ave,high,ave,low,1,1,1,1,0,1
+25-34,male,left before 19,ave,high,ave,low,ave,ave,ave,0,1,1,1,0,0
+35-44,female,some college,ave,low,low,ave,ave,ave,low,1,1,1,1,0,1
+18-24,male,college degree,ave,ave,high,low,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,low,low,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,high,low,low,high,ave,1,1,1,0,0,1
+18-24,female,left before 19,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,high,high,1,1,1,0,0,1
+18-24,female,masters degree,ave,ave,ave,ave,high,ave,high,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,low,ave,low,low,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,high,ave,ave,ave,low,ave,high,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,high,high,1,1,1,1,0,1
+25-34,male,some college,low,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+35-44,female,masters degree,high,low,ave,high,ave,ave,low,1,1,1,0,0,0
+18-24,female,some college,ave,ave,ave,high,high,ave,high,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,ave,ave,low,ave,low,ave,ave,1,0,1,0,0,1
+35-44,male,college degree,ave,low,low,low,low,high,ave,1,0,1,0,0,0
+25-34,male,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,female,masters degree,ave,ave,low,ave,ave,low,ave,1,1,1,1,0,0
+18-24,male,some college,ave,high,high,ave,ave,high,high,1,1,1,1,0,1
+25-34,female,masters degree,high,high,high,low,low,high,high,1,1,1,1,0,0
+18-24,male,some college,high,low,ave,ave,ave,low,low,1,1,1,1,0,1
+18-24,male,masters degree,low,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,ave,high,high,ave,ave,ave,1,1,1,1,0,1
+25-34,male,doctorate degree,low,ave,ave,low,ave,ave,high,1,1,1,1,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,ave,low,low,low,high,high,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,left before 19,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,some college,ave,ave,ave,ave,high,low,low,1,1,1,1,1,1
+35-44,female,left before 19,ave,low,low,low,low,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,ave,low,low,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,masters degree,ave,ave,high,ave,ave,low,ave,1,0,1,0,0,0
+18-24,female,left before 19,ave,ave,low,ave,ave,high,ave,1,0,1,0,0,0
+18-24,female,college degree,high,high,high,ave,ave,high,high,1,1,1,0,0,0
+25-34,male,some college,low,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+25-34,male,masters degree,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,low,ave,high,high,low,ave,ave,1,1,1,0,0,1
+35-44,female,left before 19,high,ave,ave,ave,high,low,low,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+18-24,male,left before 19,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,ave,ave,high,high,high,low,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,low,ave,ave,high,ave,low,1,1,1,0,0,0
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,female,masters degree,high,low,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,female,doctorate degree,ave,ave,ave,ave,high,low,low,1,0,1,0,0,0
+35-44,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,college degree,high,low,high,ave,ave,ave,high,1,1,1,0,0,1
+45-54,male,prof. certificate,low,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,low,low,ave,low,low,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,masters degree,low,high,ave,high,high,ave,ave,1,0,1,0,0,0
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,masters degree,ave,high,ave,ave,low,ave,ave,1,0,1,1,0,0
+18-24,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,female,masters degree,ave,ave,high,ave,ave,low,ave,1,0,1,0,0,0
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,low,high,ave,high,ave,low,ave,1,1,1,1,0,1
+18-24,female,masters degree,ave,high,ave,high,ave,high,ave,1,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,low,ave,ave,low,low,ave,ave,1,1,1,1,0,0
+25-34,female,college degree,low,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,male,masters degree,high,low,ave,ave,ave,ave,low,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,high,high,low,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,some college,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,0
+18-24,female,masters degree,low,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,female,left before 19,low,ave,high,ave,low,ave,ave,1,1,1,0,0,0
+25-34,male,some college,low,low,ave,low,low,low,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,ave,ave,ave,high,high,low,ave,1,1,1,0,0,0
+25-34,female,some college,high,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,high,high,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,high,high,high,ave,ave,ave,1,1,1,1,0,1
+45-54,male,some college,high,low,low,ave,low,ave,ave,1,0,1,1,0,0
+18-24,female,some college,ave,ave,ave,high,high,low,low,1,1,1,0,0,0
+45-54,male,doctorate degree,ave,ave,ave,ave,low,high,ave,1,1,1,1,0,1
+18-24,male,left before 19,ave,low,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,ave,ave,high,high,ave,ave,1,1,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,some college,high,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,low,high,high,high,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,high,ave,ave,low,low,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,low,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,low,low,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,male,left before 19,ave,low,high,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,male,prof. certificate,ave,ave,low,ave,low,ave,ave,1,1,1,1,0,1
+25-34,male,left before 19,low,ave,low,ave,ave,high,ave,1,1,1,1,1,1
+25-34,male,prof. certificate,high,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+55-64,male,left before 19,ave,ave,ave,low,ave,ave,ave,1,1,1,1,1,0
+18-24,male,some college,high,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+18-24,male,some college,high,low,ave,high,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,low,low,ave,high,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,low,high,ave,1,1,1,1,1,1
+25-34,female,prof. certificate,high,ave,ave,low,low,high,high,1,1,0,1,0,1
+25-34,male,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,low,ave,high,high,ave,high,ave,1,1,1,0,0,1
+18-24,male,masters degree,ave,high,low,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,left before 19,high,ave,ave,low,low,high,high,1,1,1,1,1,1
+25-34,female,doctorate degree,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,low,ave,ave,low,ave,ave,1,0,1,0,0,0
+25-34,male,some college,ave,low,ave,low,ave,high,high,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,high,ave,ave,high,1,1,1,1,1,1
+25-34,female,college degree,high,low,ave,low,low,ave,high,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,low,ave,ave,ave,ave,ave,1,1,0,1,1,1
+18-24,female,some college,high,low,high,high,low,ave,high,1,1,1,0,0,1
+45-54,male,college degree,ave,low,ave,ave,ave,ave,ave,0,0,1,0,0,1
+18-24,male,some college,high,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,ave,ave,ave,low,ave,low,1,1,1,0,0,1
+25-34,male,college degree,low,ave,low,low,ave,ave,ave,1,1,1,1,0,0
+35-44,male,prof. certificate,high,ave,ave,low,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+45-54,female,left before 19,ave,ave,ave,ave,ave,ave,ave,0,1,1,1,0,1
+25-34,male,some college,high,ave,ave,high,ave,ave,ave,1,1,1,1,1,1
+35-44,female,college degree,high,low,ave,ave,low,ave,ave,0,1,1,0,1,1
+55-64,female,masters degree,ave,ave,ave,low,ave,ave,high,1,0,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,ave,low,ave,high,1,1,1,0,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,doctorate degree,ave,high,high,high,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,high,high,ave,ave,high,ave,1,1,1,1,0,1
+45-54,male,prof. certificate,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,low,ave,high,1,1,1,1,0,0
+18-24,male,left before 19,ave,low,low,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+25-34,female,doctorate degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,low,ave,ave,high,ave,ave,1,1,1,0,0,0
+35-44,male,college degree,ave,ave,ave,ave,low,high,high,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,left before 19,ave,ave,high,ave,low,ave,ave,1,1,1,0,0,1
+45-54,male,prof. certificate,ave,ave,ave,low,low,ave,ave,1,1,1,0,0,0
+35-44,female,college degree,low,high,high,high,ave,ave,ave,1,1,1,1,0,1
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,high,ave,ave,low,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+25-34,male,masters degree,ave,ave,ave,ave,high,high,high,1,1,1,0,0,1
+18-24,male,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,ave,low,ave,low,ave,1,1,1,1,0,0
+25-34,female,some college,ave,ave,ave,high,ave,high,ave,1,1,1,0,0,0
+25-34,female,masters degree,high,ave,high,low,low,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,low,0,1,1,0,0,0
+18-24,male,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,some college,high,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,female,prof. certificate,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,ave,high,ave,ave,high,ave,ave,1,1,1,0,0,0
+45-54,male,left before 19,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,low,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+25-34,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,high,ave,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,masters degree,low,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,low,high,high,1,0,1,0,0,1
+18-24,male,left before 19,high,low,ave,ave,low,high,high,1,1,1,1,1,1
+18-24,male,some college,low,high,high,high,ave,ave,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,ave,low,ave,ave,high,1,0,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,low,ave,ave,low,0,0,1,0,0,0
+25-34,male,left before 19,ave,low,ave,ave,ave,low,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,low,ave,low,ave,high,1,1,1,0,0,1
+25-34,female,college degree,ave,low,ave,ave,low,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,low,ave,ave,high,1,1,0,1,1,1
+25-34,male,some college,ave,low,ave,low,low,ave,ave,1,1,1,1,0,1
+18-24,female,left before 19,low,ave,ave,low,low,high,ave,1,1,1,0,0,1
+45-54,male,college degree,ave,high,high,high,high,ave,ave,1,0,1,0,0,0
+18-24,male,prof. certificate,ave,ave,ave,low,high,ave,high,1,1,1,1,1,0
+18-24,male,some college,low,ave,ave,low,ave,ave,ave,1,1,1,0,1,1
+45-54,male,college degree,low,ave,ave,low,ave,ave,ave,1,1,1,1,0,0
+18-24,male,some college,low,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,ave,ave,low,low,ave,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,low,low,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,1,1
+35-44,female,prof. certificate,ave,ave,low,ave,ave,high,ave,1,0,1,0,0,1
+25-34,male,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,high,high,ave,low,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,high,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,female,some college,low,ave,ave,low,low,ave,ave,1,1,1,0,0,1
+18-24,female,prof. certificate,high,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,female,left before 19,high,ave,ave,low,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+25-34,male,doctorate degree,ave,low,low,ave,ave,ave,low,1,0,1,0,0,0
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,college degree,ave,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,high,ave,low,ave,ave,1,1,1,1,1,1
+35-44,male,left before 19,high,ave,ave,ave,low,low,ave,1,1,1,1,1,1
+18-24,male,some college,low,high,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,left before 19,ave,ave,high,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,college degree,high,low,high,low,ave,high,high,1,1,1,1,0,1
+18-24,female,some college,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,low,ave,ave,ave,low,low,1,1,1,1,0,1
+55-64,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,low,ave,high,ave,ave,ave,low,1,0,1,0,0,0
+18-24,male,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,0
+25-34,male,left before 19,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+45-54,female,some college,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,college degree,high,low,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,low,ave,low,low,ave,ave,ave,1,0,1,1,0,1
+45-54,female,college degree,ave,low,low,high,ave,low,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+45-54,female,college degree,low,high,ave,ave,high,low,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,low,ave,low,high,low,low,low,1,0,1,0,0,0
+55-64,male,college degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,1
+45-54,female,prof. certificate,ave,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,high,ave,ave,high,ave,1,0,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,doctorate degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,left before 19,ave,low,low,low,low,low,low,1,0,1,0,0,0
+35-44,female,college degree,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,college degree,high,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+35-44,female,college degree,low,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,high,low,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,doctorate degree,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,ave,low,ave,high,ave,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,female,some college,high,ave,high,high,ave,high,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,left before 19,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,high,ave,ave,low,low,high,high,1,1,1,1,0,1
+35-44,female,prof. certificate,ave,low,ave,ave,ave,low,low,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,low,low,ave,ave,ave,1,0,1,1,0,0
+25-34,female,masters degree,ave,ave,ave,high,ave,low,ave,1,0,1,0,0,1
+25-34,female,prof. certificate,low,ave,low,ave,ave,ave,ave,1,1,1,1,0,1
+55-64,female,college degree,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,female,some college,high,ave,low,ave,low,ave,low,1,0,1,0,0,0
+35-44,male,doctorate degree,high,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+35-44,female,masters degree,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,prof. certificate,low,ave,low,ave,high,ave,ave,1,1,1,1,0,0
+18-24,male,some college,ave,high,ave,ave,low,ave,high,1,1,1,0,0,1
+25-34,female,some college,ave,high,high,ave,ave,high,high,1,1,1,1,1,1
+35-44,female,prof. certificate,low,ave,ave,ave,high,low,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,college degree,ave,ave,ave,low,ave,high,high,0,0,0,0,0,0
+18-24,male,some college,low,high,ave,high,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,low,ave,low,low,high,high,1,1,1,1,0,1
+18-24,male,some college,high,ave,ave,low,low,ave,low,1,1,1,1,0,1
+18-24,male,some college,low,high,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,low,ave,high,ave,1,1,1,1,0,1
+35-44,female,college degree,ave,ave,high,ave,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,ave,low,low,ave,ave,1,1,1,1,0,1
+25-34,male,prof. certificate,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+25-34,male,some college,high,low,ave,low,low,high,high,1,1,0,1,1,1
+25-34,female,masters degree,ave,high,high,ave,high,ave,high,1,1,1,1,0,1
+18-24,female,some college,high,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,high,ave,low,ave,ave,1,1,1,0,1,1
+18-24,female,some college,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+35-44,female,college degree,low,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+35-44,female,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,high,high,high,high,low,ave,1,1,1,0,0,1
+35-44,male,college degree,ave,ave,ave,ave,ave,low,low,1,1,1,1,0,1
+18-24,female,some college,ave,ave,high,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,some college,high,low,high,ave,low,ave,ave,1,1,1,0,0,1
+25-34,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,masters degree,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,low,high,ave,high,ave,ave,high,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,masters degree,low,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,female,some college,low,high,low,low,low,high,high,1,1,1,1,0,0
+35-44,male,college degree,ave,ave,ave,ave,high,ave,high,1,1,1,1,0,1
+18-24,male,college degree,low,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,male,prof. certificate,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,low,low,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,ave,low,ave,ave,ave,ave,high,1,1,1,1,0,1
+35-44,male,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,female,some college,ave,ave,high,ave,ave,low,ave,1,1,1,1,0,0
+18-24,female,college degree,ave,ave,high,ave,low,ave,ave,1,1,1,0,0,1
+35-44,male,some college,high,low,ave,ave,high,ave,ave,0,0,1,1,1,1
+18-24,female,some college,ave,ave,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,low,ave,ave,ave,ave,high,1,1,1,0,0,0
+18-24,male,prof. certificate,ave,ave,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,some college,low,ave,ave,high,high,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,high,high,ave,ave,ave,1,1,1,1,1,1
+25-34,female,college degree,high,ave,high,low,low,ave,ave,1,1,1,0,0,0
+18-24,male,college degree,high,ave,ave,high,low,ave,ave,1,1,1,1,0,1
+35-44,male,college degree,high,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,prof. certificate,high,low,low,ave,high,low,low,1,1,1,1,0,0
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,low,ave,ave,high,ave,high,ave,1,1,1,0,0,1
+45-54,male,college degree,high,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,prof. certificate,high,low,ave,ave,low,high,high,1,1,1,1,1,1
+18-24,male,left before 19,ave,high,high,ave,ave,high,high,1,1,1,1,0,1
+35-44,male,left before 19,ave,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+35-44,female,doctorate degree,ave,ave,high,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,low,low,ave,ave,ave,1,1,1,1,1,1
+18-24,male,left before 19,high,low,low,low,ave,low,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,high,high,high,ave,ave,high,1,1,1,1,0,1
+45-54,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,female,left before 19,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+18-24,female,some college,low,high,ave,low,low,high,ave,1,1,1,1,0,1
+18-24,female,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,high,low,low,1,0,1,0,0,1
+55-64,male,college degree,high,low,low,low,ave,ave,ave,1,1,1,0,0,0
+18-24,female,left before 19,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,ave,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+25-34,male,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,low,ave,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,ave,low,ave,ave,ave,1,1,1,1,1,1
+18-24,female,some college,ave,ave,high,ave,high,ave,ave,1,1,1,0,0,1
+18-24,female,some college,low,ave,high,low,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,ave,low,low,high,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+18-24,female,left before 19,ave,ave,ave,low,low,high,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,low,ave,ave,low,low,ave,1,1,1,0,0,1
+18-24,female,some college,high,ave,high,low,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,ave,high,1,1,1,1,1,1
+25-34,female,prof. certificate,high,ave,ave,low,low,high,high,1,1,0,1,0,1
+25-34,female,masters degree,ave,ave,low,ave,ave,low,low,1,1,1,0,0,1
+18-24,male,some college,high,ave,ave,ave,low,low,ave,1,1,1,1,0,1
+25-34,male,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+45-54,male,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+18-24,male,left before 19,low,high,ave,ave,low,ave,high,1,1,1,0,0,1
+35-44,male,college degree,high,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+25-34,female,masters degree,ave,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+25-34,female,masters degree,high,ave,ave,ave,high,ave,low,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+25-34,female,college degree,low,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+18-24,male,some college,low,ave,high,high,high,ave,high,1,1,1,0,0,1
+18-24,male,some college,low,ave,ave,high,low,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,high,high,1,1,1,0,0,1
+18-24,male,some college,low,high,high,ave,high,ave,high,1,1,1,0,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+45-54,female,some college,ave,ave,high,ave,ave,ave,ave,1,0,1,1,1,1
+25-34,female,doctorate degree,ave,ave,high,ave,ave,ave,ave,0,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,high,high,ave,low,high,high,1,1,1,1,1,1
+45-54,male,prof. certificate,ave,ave,ave,ave,ave,low,low,0,0,1,0,0,1
+25-34,female,masters degree,high,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,ave,high,low,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,female,masters degree,high,ave,low,high,ave,low,low,1,0,1,0,0,0
+18-24,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,high,ave,high,high,ave,ave,1,1,1,1,1,1
+25-34,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,high,ave,ave,ave,ave,low,low,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,ave,high,ave,ave,low,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,1
+18-24,female,college degree,low,ave,low,high,ave,low,ave,1,0,1,0,0,0
+25-34,female,doctorate degree,high,high,ave,ave,ave,ave,low,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,low,ave,low,low,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,high,high,ave,ave,high,1,1,1,0,0,1
+25-34,male,masters degree,high,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,low,ave,ave,ave,ave,ave,ave,1,1,1,1,0,0
+25-34,female,college degree,ave,ave,ave,high,high,ave,low,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,high,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,high,ave,high,ave,ave,low,ave,1,1,1,1,0,1
+25-34,female,college degree,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,ave,high,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,low,ave,low,low,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,low,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+25-34,female,masters degree,ave,ave,low,high,ave,low,low,1,0,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+25-34,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,0
+25-34,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+45-54,male,left before 19,ave,ave,ave,high,low,ave,high,0,1,1,1,0,1
+18-24,male,college degree,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,high,ave,ave,ave,high,1,1,1,1,1,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,female,prof. certificate,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,high,ave,low,high,ave,high,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,ave,high,1,0,1,0,0,1
+18-24,female,some college,high,high,ave,low,ave,high,ave,1,1,1,1,0,1
+45-54,female,doctorate degree,low,low,ave,ave,ave,ave,low,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,high,high,low,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+55-64,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+55-64,female,prof. certificate,ave,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,low,high,ave,ave,high,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,masters degree,low,ave,ave,high,high,ave,low,1,0,1,0,0,0
+25-34,female,masters degree,high,ave,ave,high,ave,low,low,0,0,1,0,0,0
+35-44,female,doctorate degree,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,0
+35-44,female,masters degree,ave,ave,low,high,ave,ave,ave,1,0,1,0,0,0
+45-54,female,masters degree,low,ave,ave,ave,high,low,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,low,high,ave,high,high,ave,ave,1,0,0,0,0,0
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+25-34,female,masters degree,low,high,ave,low,high,ave,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,low,ave,ave,high,high,low,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,high,low,high,high,high,1,1,1,1,1,1
+18-24,female,college degree,ave,ave,low,ave,high,low,low,1,0,1,0,0,0
+25-34,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,prof. certificate,ave,ave,high,high,ave,ave,high,1,1,1,1,0,1
+45-54,female,masters degree,low,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+25-34,female,doctorate degree,ave,low,ave,high,ave,low,ave,1,1,1,0,0,1
+25-34,female,college degree,low,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+18-24,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,0
+35-44,female,doctorate degree,low,high,ave,ave,ave,ave,ave,1,0,1,1,0,0
+55-64,male,masters degree,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+25-34,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,masters degree,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,1,0,1
+55-64,female,college degree,low,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+25-34,female,masters degree,ave,ave,low,high,ave,low,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+65+,male,college degree,low,ave,ave,high,ave,low,low,0,0,1,0,0,1
+55-64,male,masters degree,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,0
+18-24,male,some college,ave,ave,ave,low,ave,ave,high,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,some college,high,ave,ave,low,ave,high,high,1,1,0,1,0,0
+25-34,female,some college,high,low,ave,low,low,high,high,1,1,1,1,1,1
+25-34,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,low,low,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,high,high,1,1,1,1,0,1
+35-44,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,0,0,0,1
+25-34,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+45-54,female,college degree,high,low,ave,ave,low,ave,low,1,1,1,0,0,0
+45-54,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,some college,low,high,high,low,ave,ave,high,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+18-24,male,college degree,ave,ave,ave,low,ave,high,ave,1,1,1,1,0,1
+25-34,female,some college,ave,ave,ave,low,low,high,high,1,1,1,1,0,1
+25-34,female,doctorate degree,high,ave,ave,low,high,ave,low,1,1,1,1,0,0
+18-24,female,masters degree,ave,high,low,ave,ave,ave,high,1,0,1,1,0,0
+18-24,male,some college,high,ave,ave,ave,low,high,ave,1,1,1,0,0,1
+45-54,male,some college,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+18-24,male,some college,high,ave,ave,ave,low,high,ave,1,1,1,1,1,1
+18-24,male,some college,ave,low,ave,low,low,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,masters degree,low,ave,ave,ave,ave,ave,high,1,0,1,1,0,0
+45-54,female,left before 19,ave,ave,ave,ave,low,ave,ave,1,1,1,1,1,1
+45-54,male,college degree,low,ave,ave,ave,ave,ave,high,1,0,1,0,0,1
+25-34,male,doctorate degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,1
+18-24,female,some college,ave,ave,ave,low,ave,high,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,low,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,ave,ave,high,high,1,1,1,1,0,1
+35-44,female,prof. certificate,high,low,ave,high,ave,ave,ave,1,1,1,0,0,1
+45-54,female,doctorate degree,ave,high,high,ave,high,ave,ave,1,0,1,0,0,1
+18-24,female,left before 19,high,low,high,ave,low,ave,ave,1,0,1,1,0,1
+18-24,female,college degree,high,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+25-34,female,prof. certificate,ave,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,male,some college,ave,low,ave,ave,ave,low,ave,0,0,1,0,0,0
+18-24,male,college degree,ave,ave,high,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,high,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,low,1,1,1,1,1,1
+25-34,male,left before 19,high,low,ave,ave,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,high,ave,ave,low,low,high,high,1,1,1,1,0,1
+18-24,male,left before 19,ave,high,high,low,ave,high,high,1,1,1,0,0,1
+45-54,male,doctorate degree,ave,low,high,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,ave,low,high,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,low,low,low,ave,ave,0,1,0,1,1,1
+18-24,male,some college,high,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,prof. certificate,high,low,high,ave,low,high,ave,1,1,1,1,0,1
+25-34,male,prof. certificate,ave,low,high,high,ave,low,low,1,1,1,1,0,1
+18-24,male,some college,ave,high,high,ave,ave,high,high,1,1,1,1,0,1
+18-24,male,left before 19,high,low,high,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,high,ave,low,ave,ave,high,1,1,1,0,0,1
+18-24,male,left before 19,ave,high,high,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,low,low,high,ave,1,1,1,0,0,1
+18-24,female,college degree,low,high,ave,low,ave,high,high,1,1,1,0,0,1
+18-24,male,some college,low,ave,high,ave,ave,high,ave,1,1,1,1,1,1
+18-24,male,left before 19,low,ave,high,high,ave,ave,high,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,high,low,ave,ave,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,high,ave,ave,ave,ave,high,1,1,1,0,0,1
+25-34,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,high,high,low,ave,1,1,1,1,0,1
+18-24,female,some college,ave,ave,low,ave,low,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,high,ave,ave,high,ave,high,1,0,1,0,0,0
+18-24,male,some college,high,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+18-24,female,some college,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,low,high,ave,ave,ave,ave,high,1,1,1,1,0,1
+25-34,male,some college,ave,low,ave,low,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,ave,low,high,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,left before 19,ave,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,college degree,low,ave,low,ave,high,low,ave,1,0,0,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+55-64,female,prof. certificate,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,some college,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+18-24,male,some college,ave,low,ave,low,ave,high,ave,1,1,1,0,0,1
+25-34,male,masters degree,low,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,female,some college,low,high,ave,high,high,ave,ave,1,1,1,0,0,0
+55-64,female,college degree,low,high,ave,ave,high,ave,ave,1,0,1,0,0,1
+18-24,female,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,high,low,ave,1,1,1,0,0,0
+35-44,female,college degree,ave,low,ave,ave,ave,ave,low,0,0,1,0,0,0
+45-54,female,left before 19,ave,ave,low,ave,ave,ave,ave,0,0,1,0,0,1
+35-44,male,prof. certificate,ave,low,ave,ave,low,ave,ave,1,1,1,0,0,0
+35-44,female,college degree,ave,high,low,ave,high,low,low,1,0,1,0,0,1
+45-54,female,prof. certificate,ave,ave,low,high,high,ave,ave,1,0,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,high,ave,low,low,1,0,1,0,0,0
+45-54,female,prof. certificate,high,low,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,male,masters degree,low,ave,high,high,ave,ave,ave,1,0,1,0,0,0
+25-34,male,college degree,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,1
+25-34,female,masters degree,low,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,prof. certificate,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+18-24,female,some college,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,female,prof. certificate,high,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,low,ave,high,low,low,1,0,1,0,0,0
+35-44,female,some college,ave,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,1
+45-54,female,college degree,low,ave,low,ave,ave,low,ave,1,0,1,0,0,0
+45-54,female,masters degree,ave,ave,high,high,ave,ave,ave,1,0,1,0,0,0
+35-44,female,left before 19,ave,ave,ave,high,ave,low,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+35-44,female,masters degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,1
+35-44,male,prof. certificate,ave,low,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,masters degree,ave,high,ave,high,ave,ave,ave,1,0,0,0,0,1
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,1,1,1
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,left before 19,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,prof. certificate,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,low,ave,ave,high,high,low,low,1,0,1,0,0,0
+45-54,female,college degree,ave,high,ave,high,ave,ave,high,1,0,0,0,0,0
+35-44,female,doctorate degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,high,ave,1,1,1,0,0,1
+55-64,female,some college,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,high,low,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,prof. certificate,low,high,low,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,masters degree,ave,ave,ave,ave,high,ave,low,1,1,1,0,0,1
+55-64,female,masters degree,ave,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,high,ave,ave,high,high,1,0,1,0,0,0
+45-54,male,left before 19,ave,high,ave,ave,high,low,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,low,ave,ave,high,ave,0,0,1,0,0,0
+35-44,female,prof. certificate,low,high,ave,ave,ave,ave,low,1,1,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+25-34,male,some college,ave,low,high,ave,ave,high,ave,1,1,1,1,1,1
+25-34,female,college degree,ave,low,low,ave,ave,ave,low,1,0,1,0,0,0
+45-54,female,college degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,low,high,ave,low,low,1,0,1,0,0,0
+35-44,female,college degree,ave,high,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,male,some college,low,high,ave,low,ave,ave,high,1,0,1,1,0,0
+35-44,female,doctorate degree,low,ave,high,high,high,ave,ave,1,0,1,0,0,1
+55-64,male,prof. certificate,ave,low,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,masters degree,ave,ave,ave,ave,ave,ave,high,1,0,1,0,0,1
+45-54,male,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,some college,ave,ave,high,ave,ave,ave,high,1,1,1,1,0,1
+45-54,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,male,college degree,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,low,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+35-44,male,college degree,ave,ave,low,ave,ave,ave,low,1,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,prof. certificate,ave,ave,low,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,prof. certificate,low,ave,low,ave,ave,low,low,1,0,1,0,0,1
+25-34,female,masters degree,low,high,low,ave,high,low,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,college degree,ave,ave,ave,low,low,ave,ave,1,0,1,0,0,1
+35-44,female,prof. certificate,low,ave,ave,high,high,ave,ave,1,0,1,0,0,1
+35-44,male,prof. certificate,high,ave,ave,ave,high,high,high,1,1,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,left before 19,ave,low,low,ave,ave,low,low,1,0,1,0,0,0
+55-64,male,left before 19,low,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,low,low,ave,ave,low,1,0,1,0,0,1
+18-24,male,some college,high,low,ave,low,low,ave,high,1,1,0,0,0,1
+45-54,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,0,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,high,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,low,ave,low,ave,high,low,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,male,left before 19,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,high,ave,ave,1,0,0,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,high,high,high,ave,high,ave,1,1,1,0,0,0
+55-64,male,some college,low,low,ave,low,ave,ave,ave,1,1,1,0,1,1
+18-24,male,college degree,ave,low,ave,ave,low,ave,low,1,1,1,1,0,1
+25-34,female,doctorate degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,1
+55-64,male,left before 19,ave,ave,ave,low,ave,ave,low,1,0,1,0,0,0
+35-44,female,college degree,ave,high,low,ave,ave,ave,low,1,0,1,0,0,0
+18-24,female,college degree,high,low,ave,ave,ave,low,ave,1,1,1,0,0,1
+25-34,male,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,prof. certificate,ave,ave,high,ave,ave,high,high,1,1,1,1,0,1
+45-54,female,college degree,low,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,high,ave,high,low,low,high,high,1,1,1,1,1,1
+18-24,female,left before 19,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,0
+25-34,male,prof. certificate,ave,high,ave,ave,ave,ave,ave,1,1,1,1,1,1
+25-34,female,some college,low,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,doctorate degree,ave,ave,ave,ave,ave,high,high,1,1,1,1,1,1
+25-34,female,college degree,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,high,ave,ave,high,high,1,1,1,0,0,1
+25-34,female,doctorate degree,ave,ave,low,ave,ave,low,low,1,1,1,0,0,0
+35-44,male,prof. certificate,ave,low,ave,ave,ave,ave,ave,1,0,1,0,0,1
+35-44,female,college degree,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,college degree,ave,ave,low,low,ave,ave,ave,1,0,1,0,0,1
+55-64,male,college degree,ave,ave,high,ave,low,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,low,ave,ave,1,1,1,0,0,0
+25-34,male,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,prof. certificate,ave,ave,low,ave,high,ave,low,1,0,1,0,0,0
+35-44,male,prof. certificate,ave,high,low,ave,ave,ave,low,1,1,1,0,0,0
+25-34,female,college degree,high,low,ave,high,ave,low,ave,1,0,1,0,0,0
+18-24,female,some college,high,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,female,prof. certificate,ave,ave,low,high,high,ave,low,1,0,1,0,0,1
+18-24,female,college degree,ave,ave,ave,low,high,ave,ave,1,0,1,0,0,0
+18-24,female,college degree,ave,high,ave,ave,ave,ave,ave,1,0,1,0,0,1
+45-54,female,some college,ave,high,ave,high,ave,ave,ave,1,0,1,0,0,0
+45-54,male,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,male,college degree,ave,low,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,female,some college,high,low,ave,ave,low,ave,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,high,low,low,high,ave,ave,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,0
+35-44,male,some college,high,low,ave,low,ave,low,ave,1,1,1,0,0,1
+25-34,male,some college,high,low,ave,high,ave,ave,ave,1,1,1,0,0,1
+25-34,female,doctorate degree,low,ave,ave,high,ave,ave,ave,1,0,0,0,0,0
+25-34,female,college degree,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+25-34,female,college degree,ave,ave,ave,high,high,low,low,1,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+35-44,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+18-24,male,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,0
+55-64,male,doctorate degree,low,ave,ave,low,high,ave,ave,1,1,1,0,0,1
+45-54,female,college degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,masters degree,low,ave,ave,ave,ave,ave,ave,1,1,0,1,0,1
+18-24,male,some college,high,ave,high,low,low,high,ave,1,1,1,1,0,1
+35-44,female,college degree,high,ave,high,ave,ave,high,high,1,1,1,1,0,1
+25-34,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,low,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+55-64,male,some college,ave,low,low,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,college degree,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+18-24,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,ave,ave,ave,high,ave,ave,1,0,1,0,0,0
+45-54,female,college degree,low,high,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,ave,ave,ave,high,high,1,1,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+35-44,female,doctorate degree,low,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+45-54,female,left before 19,ave,ave,low,high,high,low,low,1,0,1,0,0,0
+45-54,male,prof. certificate,high,ave,ave,ave,ave,ave,ave,0,0,1,0,0,0
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+35-44,female,masters degree,ave,ave,high,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,male,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,ave,ave,ave,ave,low,ave,ave,1,0,1,0,0,0
+25-34,female,college degree,ave,high,low,high,high,low,low,0,0,1,0,0,0
+25-34,female,left before 19,ave,ave,low,ave,high,ave,ave,1,0,1,0,0,0
+45-54,male,college degree,ave,high,ave,ave,high,high,ave,1,0,1,0,0,0
+55-64,male,prof. certificate,low,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+45-54,female,prof. certificate,low,ave,ave,ave,ave,low,ave,1,0,1,0,0,0
+25-34,female,left before 19,low,low,low,high,ave,low,low,1,0,1,0,0,0
+25-34,female,masters degree,ave,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+18-24,female,left before 19,low,ave,low,high,ave,ave,low,1,0,0,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,some college,low,ave,ave,ave,high,low,ave,1,1,1,0,0,1
+25-34,female,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+25-34,male,prof. certificate,ave,ave,ave,low,high,ave,low,1,1,1,1,0,1
+45-54,male,prof. certificate,ave,ave,low,ave,ave,low,low,1,0,1,0,0,0
+45-54,female,prof. certificate,low,ave,ave,ave,high,ave,ave,1,0,1,0,0,1
+25-34,female,masters degree,low,ave,low,high,high,ave,ave,1,1,1,0,0,0
+35-44,male,prof. certificate,low,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+45-54,male,prof. certificate,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,female,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,prof. certificate,ave,ave,ave,ave,ave,ave,low,1,1,1,0,0,1
+45-54,female,college degree,ave,ave,ave,ave,high,low,low,1,0,1,0,0,0
+25-34,female,college degree,high,ave,ave,low,ave,low,low,1,1,1,0,0,1
+35-44,male,college degree,low,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+55-64,female,some college,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,female,left before 19,low,ave,ave,high,high,low,ave,1,0,1,0,0,1
+35-44,female,masters degree,ave,ave,ave,ave,ave,ave,low,0,0,0,0,0,0
+45-54,female,some college,ave,ave,ave,high,ave,ave,ave,1,0,1,0,0,0
+18-24,male,college degree,high,ave,high,high,ave,ave,high,1,1,1,0,0,1
+25-34,female,left before 19,high,ave,ave,low,low,ave,ave,1,1,1,1,0,1
+45-54,male,left before 19,ave,ave,ave,ave,ave,ave,ave,1,0,1,0,0,1
+25-34,female,college degree,high,ave,high,low,ave,high,high,1,1,1,0,0,1
+25-34,male,college degree,ave,ave,ave,high,high,ave,ave,1,0,1,0,0,1
+25-34,female,prof. certificate,ave,high,ave,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,low,ave,ave,low,low,ave,high,1,1,1,0,0,1
+18-24,female,left before 19,high,high,high,ave,high,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,high,ave,low,ave,ave,1,1,1,1,1,1
+35-44,male,prof. certificate,high,ave,low,ave,ave,low,low,1,0,1,0,0,1
+45-54,male,masters degree,ave,ave,ave,ave,high,high,ave,1,1,1,1,0,1
+35-44,male,masters degree,ave,low,ave,ave,ave,ave,low,1,1,1,0,0,1
+45-54,female,prof. certificate,ave,ave,ave,low,ave,ave,ave,1,0,1,0,0,0
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,low,ave,low,low,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,low,high,ave,high,ave,high,1,1,1,0,0,1
+35-44,male,left before 19,ave,ave,ave,ave,ave,ave,high,1,1,1,1,1,0
+25-34,female,some college,ave,high,high,ave,ave,ave,high,1,1,1,1,1,1
+25-34,female,college degree,ave,low,high,high,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,low,ave,high,high,low,ave,1,1,1,0,0,1
+25-34,female,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+35-44,female,prof. certificate,ave,ave,low,ave,ave,ave,ave,1,0,1,0,0,0
+25-34,male,college degree,ave,ave,ave,ave,ave,ave,high,1,1,1,1,0,1
+55-64,male,some college,ave,low,ave,low,ave,ave,ave,1,0,1,0,0,0
+18-24,male,left before 19,ave,high,high,ave,ave,ave,high,1,1,1,0,0,1
+25-34,female,masters degree,ave,ave,ave,low,ave,ave,high,1,1,1,1,1,1
+18-24,female,left before 19,ave,ave,ave,ave,low,ave,ave,0,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,ave,low,high,ave,high,ave,high,1,1,1,1,0,1
+45-54,female,left before 19,high,ave,low,ave,ave,high,high,0,1,1,1,1,1
+18-24,female,college degree,ave,ave,ave,low,ave,ave,ave,1,1,1,0,0,1
+45-54,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+18-24,female,college degree,high,ave,low,low,low,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,low,ave,low,low,high,ave,ave,1,1,1,0,0,0
+25-34,female,left before 19,ave,ave,ave,ave,high,ave,ave,1,1,1,1,0,1
+25-34,female,some college,high,ave,ave,low,ave,high,high,1,0,1,1,0,0
+18-24,male,some college,high,low,ave,ave,low,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,low,low,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,ave,high,1,1,1,1,0,1
+18-24,male,college degree,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,0
+45-54,female,college degree,ave,low,ave,ave,ave,ave,ave,1,0,1,1,0,0
+18-24,male,some college,ave,ave,high,low,low,high,high,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,low,ave,high,ave,1,1,1,1,0,1
+35-44,female,doctorate degree,ave,ave,ave,ave,high,low,low,1,1,1,1,0,1
+18-24,male,college degree,ave,low,high,ave,high,ave,high,1,1,1,0,1,1
+18-24,male,some college,ave,ave,ave,high,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,ave,low,high,ave,ave,high,high,0,1,1,0,0,1
+25-34,male,college degree,ave,ave,high,ave,ave,ave,high,1,1,1,1,1,1
+35-44,female,left before 19,ave,ave,low,ave,low,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,high,ave,low,high,ave,1,1,1,0,0,1
+18-24,male,college degree,high,low,ave,low,ave,ave,ave,1,1,1,0,0,1
+55-64,male,masters degree,ave,high,low,low,high,ave,ave,1,0,1,0,0,1
+45-54,male,some college,high,low,ave,low,low,ave,high,1,0,1,0,0,0
+25-34,male,doctorate degree,ave,high,high,high,high,ave,high,1,1,1,1,0,1
+18-24,male,masters degree,ave,ave,high,high,ave,high,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,low,ave,ave,1,1,1,0,0,1
+18-24,male,prof. certificate,ave,ave,high,high,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,ave,low,ave,low,1,1,1,1,0,0
+35-44,male,college degree,ave,ave,high,ave,low,ave,high,1,1,1,1,0,1
+18-24,female,masters degree,ave,ave,ave,ave,ave,low,low,1,0,1,0,0,0
+18-24,female,left before 19,high,high,high,low,ave,ave,high,1,1,1,1,1,1
+18-24,male,college degree,ave,low,high,low,ave,ave,high,1,1,1,1,0,1
+18-24,male,some college,low,ave,high,ave,high,ave,ave,1,1,1,0,0,1
+25-34,female,left before 19,high,ave,ave,low,low,ave,high,1,1,1,1,0,1
+25-34,male,college degree,ave,ave,ave,ave,ave,high,high,1,0,1,0,0,1
+35-44,female,college degree,ave,ave,high,ave,high,ave,high,1,1,1,1,0,1
+18-24,female,masters degree,ave,ave,ave,high,ave,ave,low,1,1,1,1,0,1
+45-54,male,college degree,low,ave,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,female,some college,ave,low,ave,high,ave,ave,ave,1,1,1,1,1,1
+25-34,female,college degree,ave,ave,ave,ave,ave,high,ave,1,1,1,1,0,1
+18-24,male,masters degree,low,high,high,ave,high,ave,high,1,1,1,1,0,1
+18-24,male,some college,high,low,high,ave,low,high,ave,1,1,1,0,0,1
+45-54,female,some college,high,ave,ave,ave,ave,high,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,high,low,ave,ave,ave,1,1,1,1,0,0
+18-24,female,some college,high,low,high,ave,low,ave,ave,1,1,1,0,0,1
+25-34,male,college degree,ave,low,ave,ave,ave,ave,ave,1,0,1,0,0,0
+18-24,male,college degree,ave,low,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,0,1
+25-34,female,college degree,low,low,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,high,ave,low,ave,ave,high,1,1,1,1,0,1
+25-34,female,college degree,ave,low,ave,low,low,low,low,1,1,1,0,0,0
+25-34,female,college degree,ave,low,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,ave,ave,ave,ave,low,ave,high,1,1,1,0,0,1
+18-24,male,college degree,low,high,ave,ave,high,ave,ave,1,1,1,0,0,1
+35-44,female,college degree,ave,low,ave,ave,high,ave,ave,1,1,1,0,0,0
+25-34,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,1,0
+45-54,male,college degree,ave,ave,ave,ave,low,high,ave,1,1,1,1,0,1
+35-44,female,prof. certificate,high,low,ave,ave,low,ave,low,1,1,1,0,0,1
+35-44,female,some college,ave,low,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,female,prof. certificate,ave,ave,ave,ave,ave,low,low,1,1,0,1,0,1
+25-34,female,prof. certificate,low,ave,high,high,ave,high,high,1,1,1,1,0,1
+55-64,female,college degree,ave,ave,ave,high,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,high,ave,low,high,high,1,1,1,0,0,1
+25-34,male,college degree,high,ave,high,low,ave,ave,ave,1,1,1,0,0,0
+45-54,male,doctorate degree,ave,ave,ave,low,ave,ave,ave,1,1,1,1,0,1
+18-24,male,some college,ave,ave,high,high,ave,ave,ave,1,1,1,1,0,1
+45-54,male,college degree,ave,ave,ave,ave,high,ave,ave,1,1,1,0,0,0
+18-24,male,some college,low,high,ave,high,high,ave,ave,1,1,1,0,0,1
+18-24,female,college degree,high,ave,high,ave,low,high,high,1,1,1,1,0,1
+18-24,female,some college,ave,ave,ave,ave,high,high,high,1,1,1,1,1,1
+45-54,male,prof. certificate,low,ave,ave,ave,ave,low,ave,1,1,1,0,0,1
+25-34,female,college degree,high,low,high,ave,low,ave,low,1,1,1,0,0,1
+18-24,male,left before 19,ave,ave,ave,ave,low,ave,high,1,1,1,1,1,1
+25-34,male,prof. certificate,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,masters degree,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+35-44,male,left before 19,ave,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,high,ave,low,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,low,ave,high,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,ave,ave,low,high,high,1,1,1,1,1,1
+35-44,male,prof. certificate,low,high,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,low,ave,low,ave,1,1,1,1,0,1
+18-24,male,some college,high,ave,high,ave,low,high,ave,1,1,1,1,1,1
+18-24,male,left before 19,ave,ave,ave,ave,ave,ave,high,1,1,1,0,0,1
+35-44,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,1,1,1
+55-64,female,college degree,low,low,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,college degree,ave,ave,high,ave,ave,ave,ave,1,1,1,0,0,1
+45-54,male,left before 19,ave,ave,ave,low,ave,ave,ave,1,1,1,1,1,1
+18-24,female,some college,ave,ave,high,low,ave,ave,high,1,1,1,1,0,1
+25-34,male,some college,low,ave,high,ave,ave,ave,ave,1,1,1,1,1,1
+18-24,female,prof. certificate,ave,ave,high,ave,low,ave,high,1,1,1,1,0,1
+18-24,female,college degree,ave,ave,high,ave,high,ave,ave,1,1,1,0,0,1
+18-24,female,some college,high,ave,ave,ave,ave,high,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,ave,low,low,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,ave,ave,ave,ave,1,1,1,1,0,1
+25-34,female,college degree,low,ave,high,high,high,ave,ave,1,1,1,0,0,1
+18-24,male,left before 19,high,ave,high,low,ave,ave,ave,1,1,1,1,1,1
+18-24,male,some college,ave,ave,high,ave,low,ave,high,1,1,1,0,0,0
+18-24,male,left before 19,ave,low,ave,ave,ave,ave,ave,1,1,1,1,1,1
+65+,male,some college,high,ave,high,ave,ave,ave,ave,1,1,1,0,0,0
+18-24,male,some college,ave,low,ave,ave,ave,high,high,1,1,1,0,0,1
+25-34,male,some college,ave,ave,high,ave,ave,ave,ave,1,1,1,1,0,1
+18-24,male,left before 19,high,low,ave,low,ave,ave,high,1,1,1,1,0,1
+18-24,male,college degree,ave,low,ave,ave,high,ave,ave,1,1,1,0,0,1
+18-24,male,some college,ave,ave,ave,ave,ave,ave,ave,1,1,1,0,0,1
+18-24,female,some college,low,high,high,ave,low,ave,high,1,1,1,0,0,0
+18-24,male,some college,ave,high,ave,ave,low,ave,ave,1,1,1,0,0,1
+25-34,female,college degree,high,low,low,low,low,ave,ave,1,1,1,1,0,1
+18-24,female,some college,ave,low,ave,low,low,high,high,1,1,1,0,0,1
+18-24,male,some college,ave,high,high,high,ave,ave,high,1,1,1,1,0,1
